@@ -1,0 +1,998 @@
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/antlr/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/beanutils/main/commons-beanutils-1.8.3.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/beanutils/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/cli/main/commons-cli-1.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/cli/main/commons-cli-1.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/cli/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/codec/main/commons-codec-1.4.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/codec/main/commons-codec-1.4.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/codec/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/collections/main/commons-collections-3.2.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/collections/main/commons-collections-3.2.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/collections/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/configuration/main/commons-configuration-1.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/configuration/main/commons-configuration-1.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/configuration/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/io/main/commons-io-2.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/io/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/lang/main/commons-lang-2.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/lang/main/commons-lang-2.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/lang/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/logging/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/pool/main/commons-pool-1.5.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/commons/pool/main/module.xml
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-api-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-api-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-common-utilities-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-common-utilities-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-coloc-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-coloc-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-http-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-http-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-object-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-object-2.4.6.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-soap-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-soap-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-xml-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-bindings-xml-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-core-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-core-2.4.6.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-databinding-aegis-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-databinding-aegis-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-databinding-jaxb-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-databinding-jaxb-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-frontend-jaxws-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-frontend-jaxws-2.4.6.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-frontend-simple-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-frontend-simple-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-management-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-management-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-transports-common-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-transports-common-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-transports-http-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-transports-http-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-transports-jms-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-transports-jms-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-transports-local-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-transports-local-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-ws-addr-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-ws-addr-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-ws-policy-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-ws-policy-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-ws-rm-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-ws-rm-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-ws-security-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-rt-ws-security-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-common-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-common-2.4.6.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-java2ws-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-java2ws-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-validator-2.4.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-validator-2.4.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-wsdlto-core-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-wsdlto-core-2.4.6.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-wsdlto-databinding-jaxb-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-wsdlto-databinding-jaxb-2.4.6.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-wsdlto-frontend-jaxws-2.4.6.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-tools-wsdlto-frontend-jaxws-2.4.6.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-xjc-boolean-2.4.0.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-xjc-boolean-2.4.0.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-xjc-dv-2.4.0.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-xjc-dv-2.4.0.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-xjc-ts-2.4.0.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/cxf-xjc-ts-2.4.0.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/cxf/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/httpcomponents/main/httpclient-4.1.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/httpcomponents/main/httpclient-4.1.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/httpcomponents/main/httpcore-4.1.4.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/httpcomponents/main/httpcore-4.1.4.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/httpcomponents/main/httpmime-4.1.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/httpcomponents/main/httpmime-4.1.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/httpcomponents/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/james/mime4j/main/apache-mime4j-0.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/james/mime4j/main/apache-mime4j-0.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/james/mime4j/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/juddi-client/main/juddi-client-3.1.3.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/juddi-client/main/juddi-client-3.1.3.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/juddi-client/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/scout/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/scout/main/scout-1.2.6.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/scout/main/scout-1.2.6.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/uddi-ws/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/uddi-ws/main/uddi-ws-3.1.3.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/juddi/uddi-ws/main/uddi-ws-3.1.3.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/log4j/main/log4j-1.2.16.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/log4j/main/log4j-1.2.16.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/log4j/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/neethi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/neethi/main/neethi-3.0.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/neethi/main/neethi-3.0.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/santuario/xmlsec/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/santuario/xmlsec/main/xmlsec-1.5.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/santuario/xmlsec/main/xmlsec-1.5.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/velocity/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/velocity/main/velocity-1.6.3.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/velocity/main/velocity-1.6.3.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/ws/security/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/ws/security/main/wss4j-1.6.5.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/ws/security/main/wss4j-1.6.5.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/ws/xmlschema/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/ws/xmlschema/main/xmlschema-core-2.0.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/ws/xmlschema/main/xmlschema-core-2.0.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xalan/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xalan/main/serializer-2.7.1.jbossorg-1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xalan/main/serializer-2.7.1.jbossorg-1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xalan/main/xalan-2.7.1.jbossorg-1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xalan/main/xalan-2.7.1.jbossorg-1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xerces/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xerces/main/xercesImpl-2.9.1-jbossas-1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xerces/main/xercesImpl-2.9.1-jbossas-1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xml-resolver/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xml-resolver/main/xml-resolver-1.2.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/apache/xml-resolver/main/xml-resolver-1.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-core-asl/main/jackson-core-asl-1.9.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-core-asl/main/jackson-core-asl-1.9.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-core-asl/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-jaxrs/main/jackson-jaxrs-1.9.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-jaxrs/main/jackson-jaxrs-1.9.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-jaxrs/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-mapper-asl/main/jackson-mapper-asl-1.9.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-mapper-asl/main/jackson-mapper-asl-1.9.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-mapper-asl/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-xc/main/jackson-xc-1.9.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-xc/main/jackson-xc-1.9.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jackson/jackson-xc/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jettison/main/jettison-1.3.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jettison/main/jettison-1.3.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/jettison/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/woodstox/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/woodstox/main/stax2-api-3.1.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/woodstox/main/stax2-api-3.1.1.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/woodstox/main/woodstox-core-asl-4.1.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/codehaus/woodstox/main/woodstox-core-asl-4.1.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/dom4j/main/dom4j-1.6.1.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/dom4j/main/dom4j-1.6.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/dom4j/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/envers/main/hibernate-envers-4.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/envers/main/hibernate-envers-4.0.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/envers/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-commons-annotations-4.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-commons-annotations-4.0.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-core-4.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-core-4.0.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-entitymanager-4.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-entitymanager-4.0.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-infinispan-4.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/hibernate-infinispan-4.0.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/validator/main/hibernate-validator-4.2.0.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/validator/main/hibernate-validator-4.2.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hibernate/validator/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/main/hornetq-core-2.2.13.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/main/hornetq-core-2.2.13.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/main/hornetq-jms-2.2.13.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/main/hornetq-jms-2.2.13.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/main/lib/linux-i686/libHornetQAIO32.so
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/main/lib/linux-x86_64/libHornetQAIO64.so
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/main/lib.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/ra/main/hornetq-ra-2.2.13.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/ra/main/hornetq-ra-2.2.13.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/hornetq/ra/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/cachestore/jdbc/main/infinispan-cachestore-jdbc-5.1.2.FINAL.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/cachestore/jdbc/main/infinispan-cachestore-jdbc-5.1.2.FINAL.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/cachestore/jdbc/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/cachestore/remote/main/infinispan-cachestore-remote-5.1.2.FINAL.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/cachestore/remote/main/infinispan-cachestore-remote-5.1.2.FINAL.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/cachestore/remote/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/client/hotrod/main/infinispan-client-hotrod-5.1.2.FINAL.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/client/hotrod/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/main/infinispan-core-5.1.2.FINAL.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/main/infinispan-core-5.1.2.FINAL.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/infinispan/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jacorb/main/jacorb-2.3.1.jbossorg-1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jacorb/main/jacorb-2.3.1.jbossorg-1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jacorb/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/javassist/main/javassist-3.15.0-GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/javassist/main/javassist-3.15.0-GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/javassist/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jaxen/main/jaxen-1.1.3.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jaxen/main/jaxen-1.1.3.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jaxen/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/aggregate/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/appclient/main/jboss-as-appclient-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/appclient/main/jboss-as-appclient-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/appclient/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/cli/main/jboss-as-cli-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/cli/main/jboss-as-cli-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/cli/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/api/main/jboss-as-clustering-api-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/api/main/jboss-as-clustering-api-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/api/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/common/main/jboss-as-clustering-common-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/common/main/jboss-as-clustering-common-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/common/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/ejb3/infinispan/main/jboss-as-clustering-ejb3-infinispan-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/ejb3/infinispan/main/jboss-as-clustering-ejb3-infinispan-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/ejb3/infinispan/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/impl/main/jboss-as-clustering-impl-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/impl/main/jboss-as-clustering-impl-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/impl/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/infinispan/main/jboss-as-clustering-infinispan-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/infinispan/main/jboss-as-clustering-infinispan-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/infinispan/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/jgroups/main/jboss-as-clustering-jgroups-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/jgroups/main/jboss-as-clustering-jgroups-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/jgroups/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/registry/main/jboss-as-clustering-registry-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/registry/main/jboss-as-clustering-registry-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/registry/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/service/main/jboss-as-clustering-service-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/service/main/jboss-as-clustering-service-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/service/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/singleton/main/jboss-as-clustering-singleton-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/singleton/main/jboss-as-clustering-singleton-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/singleton/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/web/infinispan/main/jboss-as-clustering-web-infinispan-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/web/infinispan/main/jboss-as-clustering-web-infinispan-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/web/infinispan/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/web/spi/main/jboss-as-clustering-web-spi-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/web/spi/main/jboss-as-clustering-web-spi-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/clustering/web/spi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/cmp/main/jboss-as-cmp-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/cmp/main/jboss-as-cmp-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/cmp/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/configadmin/main/jboss-as-configadmin-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/configadmin/main/jboss-as-configadmin-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/configadmin/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/connector/main/jboss-as-connector-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/connector/main/jboss-as-connector-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/connector/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/console/main/jboss-as-console-1.1.0.FINAL-resources.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/console/main/jboss-as-console-1.1.0.FINAL-resources.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/console/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/controller/main/jboss-as-controller-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/controller/main/jboss-as-controller-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/controller/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/controller-client/main/jboss-as-controller-client-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/controller-client/main/jboss-as-controller-client-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/controller-client/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/deployment-repository/main/jboss-as-deployment-repository-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/deployment-repository/main/jboss-as-deployment-repository-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/deployment-repository/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/deployment-scanner/main/jboss-as-deployment-scanner-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/deployment-scanner/main/jboss-as-deployment-scanner-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/deployment-scanner/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-add-user/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-http-error-context/main/jboss-as-domain-http-error-context-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-http-error-context/main/jboss-as-domain-http-error-context-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-http-error-context/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-http-interface/main/jboss-as-domain-http-interface-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-http-interface/main/jboss-as-domain-http-interface-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-http-interface/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-management/main/jboss-as-domain-management-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-management/main/jboss-as-domain-management-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/domain-management/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/ee/deployment/main/jboss-as-ee-deployment-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/ee/deployment/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/ee/main/jboss-as-ee-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/ee/main/jboss-as-ee-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/ee/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/ejb3/main/jboss-as-ejb3-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/ejb3/main/jboss-as-ejb3-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/ejb3/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/embedded/main/jboss-as-embedded-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/embedded/main/jboss-as-embedded-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/embedded/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/host-controller/main/jboss-as-host-controller-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/host-controller/main/jboss-as-host-controller-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/host-controller/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jacorb/main/jboss-as-jacorb-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jacorb/main/jboss-as-jacorb-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jacorb/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jaxr/main/jboss-as-jaxr-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jaxr/main/jboss-as-jaxr-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jaxr/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jaxrs/main/jboss-as-jaxrs-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jaxrs/main/jboss-as-jaxrs-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jaxrs/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jdr/main/jboss-as-jdr-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jdr/main/jboss-as-jdr-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jdr/main/jboss-as-sos-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jdr/main/jboss-as-sos-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jdr/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jmx/main/jboss-as-jmx-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jmx/main/jboss-as-jmx-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jmx/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/hibernate/3/jboss-as-jpa-hibernate3-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/hibernate/3/jboss-as-jpa-hibernate3-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/hibernate/3/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/hibernate/4/jboss-as-jpa-hibernate4-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/hibernate/4/jboss-as-jpa-hibernate4-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/hibernate/4/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/main/jboss-as-jpa-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/main/jboss-as-jpa-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/openjpa/main/jboss-as-jpa-openjpa-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/openjpa/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/spi/main/jboss-as-jpa-spi-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/spi/main/jboss-as-jpa-spi-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/spi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/util/main/jboss-as-jpa-util-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/util/main/jboss-as-jpa-util-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jpa/util/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jsr77/main/jboss-as-jsr77-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jsr77/main/jboss-as-jsr77-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/jsr77/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/logging/main/jboss-as-logging-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/logging/main/jboss-as-logging-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/logging/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/mail/main/jboss-as-mail-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/mail/main/jboss-as-mail-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/mail/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/management-client-content/main/jboss-as-management-client-content-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/management-client-content/main/jboss-as-management-client-content-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/management-client-content/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/messaging/main/jboss-as-messaging-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/messaging/main/jboss-as-messaging-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/messaging/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/jboss-as-modcluster-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/jboss-as-modcluster-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/mod_cluster-container-catalina-1.2.0.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/mod_cluster-container-catalina-1.2.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/mod_cluster-container-jbossweb-1.2.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/mod_cluster-container-jbossweb-1.2.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/mod_cluster-container-spi-1.2.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/mod_cluster-container-spi-1.2.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/mod_cluster-core-1.2.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/mod_cluster-core-1.2.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/modcluster/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/naming/main/jboss-as-naming-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/naming/main/jboss-as-naming-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/naming/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/network/main/jboss-as-network-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/network/main/jboss-as-network-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/network/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/osgi/main/jboss-as-osgi-service-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/osgi/main/jboss-as-osgi-service-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/osgi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/platform-mbean/main/jboss-as-platform-mbean-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/platform-mbean/main/jboss-as-platform-mbean-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/platform-mbean/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/pojo/main/jboss-as-pojo-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/pojo/main/jboss-as-pojo-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/pojo/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/process-controller/main/jboss-as-process-controller-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/process-controller/main/jboss-as-process-controller-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/process-controller/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/protocol/main/jboss-as-protocol-7.1.1.Final.jar
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/protocol/main/jboss-as-protocol-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/protocol/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/remoting/main/jboss-as-remoting-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/remoting/main/jboss-as-remoting-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/remoting/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/sar/main/jboss-as-sar-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/sar/main/jboss-as-sar-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/sar/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/security/main/jboss-as-security-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/security/main/jboss-as-security-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/security/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/server/main/jboss-as-server-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/server/main/jboss-as-server-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/server/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/standalone/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/threads/main/jboss-as-threads-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/threads/main/jboss-as-threads-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/threads/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/transactions/main/jboss-as-transactions-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/transactions/main/jboss-as-transactions-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/transactions/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/jasper-jdt-7.0.3.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/jasper-jdt-7.0.3.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/jboss-as-web-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/jboss-as-web-7.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/jbossweb-7.0.13.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/jbossweb-7.0.13.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/linux-i686/libapr-1.so
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/linux-i686/libcrypto.so
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/linux-i686/libssl.so
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/linux-i686/libtcnative-1.so
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/linux-x86_64/libapr-1.so
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/linux-x86_64/libcrypto.so
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/linux-x86_64/libssl.so
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/linux-x86_64/libtcnative-1.so
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/macosx-i686/libapr-1.jnilib
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/macosx-i686/libcrypto.jnilib
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/macosx-i686/libssl.jnilib
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/macosx-i686/libtcnative-1.jnilib
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/macosx-x86_64/libapr-1.jnilib
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/macosx-x86_64/libcrypto.jnilib
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/macosx-x86_64/libssl.jnilib
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/macosx-x86_64/libtcnative-1.jnilib
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/win-i686/tcnative-1.dll
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/lib/win-x86_64/tcnative-1.dll
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/web/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/webservices/main/jboss-as-webservices-server-integration-7.1.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/webservices/main/jboss-as-webservices-server-integration-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/webservices/main/jbossws-cxf-resources-4.0.2.GA-jboss711.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/webservices/main/jbossws-cxf-resources-4.0.2.GA-jboss711.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/webservices/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/webservices/server/integration/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/webservices/server/jaxrpc-integration/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/weld/main/jboss-as-weld-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/weld/main/jboss-as-weld-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/weld/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/xts/main/jboss-as-xts-7.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/xts/main/jboss-as-xts-7.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/as/xts/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/classfilewriter/main/jboss-classfilewriter-1.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/classfilewriter/main/jboss-classfilewriter-1.0.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/classfilewriter/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/com/sun/httpserver/main/httpserver-1.0.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/com/sun/httpserver/main/httpserver-1.0.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/com/sun/httpserver/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/common-core/main/jboss-common-core-2.2.17.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/common-core/main/jboss-common-core-2.2.17.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/common-core/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/dmr/main/jboss-dmr-1.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/dmr/main/jboss-dmr-1.1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/dmr/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ejb-client/main/jboss-ejb-client-1.0.5.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ejb-client/main/jboss-ejb-client-1.0.5.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ejb-client/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.0.0.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.0.0.jar.index
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ejb3/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/iiop-client/main/jboss-iiop-client-1.0.0.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/iiop-client/main/jboss-iiop-client-1.0.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/iiop-client/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/integration/ext-content/main/bundled/jboss-seam-int.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/integration/ext-content/main/module.xml
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/interceptor/main/jboss-interceptor-core-2.0.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/interceptor/main/jboss-interceptor-core-2.0.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/interceptor/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/interceptor/spi/main/jboss-interceptor-spi-2.0.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/interceptor/spi/main/jboss-interceptor-spi-2.0.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/interceptor/spi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/invocation/main/jboss-invocation-1.1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/invocation/main/jboss-invocation-1.1.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/invocation/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/api/main/ironjacamar-common-api-1.0.9.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/api/main/ironjacamar-common-api-1.0.9.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/api/main/ironjacamar-common-spi-1.0.9.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/api/main/ironjacamar-common-spi-1.0.9.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/api/main/ironjacamar-core-api-1.0.9.Final.jar
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/api/main/ironjacamar-core-api-1.0.9.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/api/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/ironjacamar-common-impl-1.0.9.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/ironjacamar-common-impl-1.0.9.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/ironjacamar-core-impl-1.0.9.Final.jar
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/ironjacamar-core-impl-1.0.9.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/ironjacamar-deployers-common-1.0.9.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/ironjacamar-deployers-common-1.0.9.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/ironjacamar-validator-1.0.9.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/ironjacamar-validator-1.0.9.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/impl/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/jdbcadapters/main/ironjacamar-jdbc-1.0.9.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/jdbcadapters/main/ironjacamar-jdbc-1.0.9.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ironjacamar/jdbcadapters/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jandex/main/jandex-1.0.3.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jandex/main/jandex-1.0.3.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jandex/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jaxbintros/main/jboss-jaxb-intros-1.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jaxbintros/main/jboss-jaxb-intros-1.0.2.GA.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jaxbintros/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jboss-transaction-spi/main/jboss-transaction-spi-7.0.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jboss-transaction-spi/main/jboss-transaction-spi-7.0.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jboss-transaction-spi/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jts/integration/main/jbossjts-integration-4.16.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jts/integration/main/jbossjts-integration-4.16.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jts/integration/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jts/main/jbossjts-4.16.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jts/main/jbossjts-4.16.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/jts/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logging/jul-to-slf4j-stub/main/jul-to-slf4j-stub-1.0.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logging/jul-to-slf4j-stub/main/jul-to-slf4j-stub-1.0.0.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logging/jul-to-slf4j-stub/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logging/main/jboss-logging-3.1.0.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logging/main/jboss-logging-3.1.0.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logging/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logmanager/log4j/main/jboss-logmanager-log4j-1.0.0.GA.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logmanager/log4j/main/jboss-logmanager-log4j-1.0.0.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logmanager/log4j/main/module.xml
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logmanager/main/jboss-logmanager-1.2.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logmanager/main/jboss-logmanager-1.2.2.GA.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/logmanager/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/marshalling/main/jboss-marshalling-1.3.11.GA.jar
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/marshalling/main/jboss-marshalling-1.3.11.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/marshalling/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/marshalling/river/main/jboss-marshalling-river-1.3.11.GA.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/marshalling/river/main/jboss-marshalling-river-1.3.11.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/marshalling/river/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-appclient-7.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-appclient-7.0.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-common-7.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-common-7.0.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-ear-7.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-ear-7.0.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-ejb-7.0.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-ejb-7.0.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-web-7.0.1.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/jboss-metadata-web-7.0.1.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/metadata/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/modules/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/msc/main/jboss-msc-1.0.2.GA.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/msc/main/jboss-msc-1.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/msc/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/netty/main/module.xml
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/netty/main/netty-3.2.6.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/netty/main/netty-3.2.6.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-deployment-1.0.12.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-deployment-1.0.12.Final.jar.index
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-framework-core-1.1.8.Final.jar
+==> vm1:
+==> vm1:   inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-framework-core-1.1.8.Final.jar.index
+==> vm1:
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-resolver-api-1.0.13.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-resolver-api-1.0.13.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-resolver-felix-1.0.13.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-resolver-felix-1.0.13.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-resolver-spi-1.0.13.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/jbosgi-resolver-spi-1.0.13.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/framework/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/metadata/main/jbosgi-metadata-2.0.3.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/metadata/main/jbosgi-metadata-2.0.3.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/metadata/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/repository/main/jbosgi-repository-api-1.0.5.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/repository/main/jbosgi-repository-api-1.0.5.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/repository/main/jbosgi-repository-core-1.0.5.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/repository/main/jbosgi-repository-core-1.0.5.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/repository/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/spi/main/jbosgi-spi-3.0.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/spi/main/jbosgi-spi-3.0.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/spi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/vfs/main/jbosgi-vfs-1.0.7.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/vfs/main/jbosgi-vfs-1.0.7.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/vfs/main/jbosgi-vfs30-1.0.7.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/vfs/main/jbosgi-vfs30-1.0.7.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/osgi/vfs/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remote-naming/main/jboss-remote-naming-1.0.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remote-naming/main/jboss-remote-naming-1.0.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remote-naming/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remoting3/main/jboss-remoting-3.2.3.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remoting3/main/jboss-remoting-3.2.3.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remoting3/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remoting3/remoting-jmx/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remoting3/remoting-jmx/main/remoting-jmx-1.0.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/remoting3/remoting-jmx/main/remoting-jmx-1.0.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-atom-provider/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-atom-provider/main/resteasy-atom-provider-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-atom-provider/main/resteasy-atom-provider-2.3.2.Final-jandex.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-atom-provider/main/resteasy-atom-provider-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-atom-provider/main/resteasy-atom-provider-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-cdi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-cdi/main/resteasy-cdi-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-cdi/main/resteasy-cdi-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jackson-provider/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jackson-provider/main/resteasy-jackson-provider-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jackson-provider/main/resteasy-jackson-provider-2.3.2.Final-jandex.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jackson-provider/main/resteasy-jackson-provider-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jackson-provider/main/resteasy-jackson-provider-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxb-provider/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-2.3.2.Final-jandex.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxrs/main/async-http-servlet-3.0-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxrs/main/async-http-servlet-3.0-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxrs/main/async-http-servlet-3.0-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxrs/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-2.3.2.Final-jandex.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jettison-provider/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jettison-provider/main/resteasy-jettison-provider-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jettison-provider/main/resteasy-jettison-provider-2.3.2.Final-jandex.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jettison-provider/main/resteasy-jettison-provider-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jettison-provider/main/resteasy-jettison-provider-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jsapi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jsapi/main/resteasy-jsapi-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jsapi/main/resteasy-jsapi-2.3.2.Final-jandex.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jsapi/main/resteasy-jsapi-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-jsapi/main/resteasy-jsapi-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-multipart-provider/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-2.3.2.Final-jandex.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-yaml-provider/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-yaml-provider/main/resteasy-yaml-provider-2.3.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-yaml-provider/main/resteasy-yaml-provider-2.3.2.Final-jandex.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-yaml-provider/main/resteasy-yaml-provider-2.3.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/resteasy/resteasy-yaml-provider/main/resteasy-yaml-provider-2.3.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/sasl/main/jboss-sasl-1.0.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/sasl/main/jboss-sasl-1.0.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/sasl/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-common-2.2.0.SP1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-common-2.2.0.SP1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-extras-2.2.0.SP1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-extras-2.2.0.SP1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-net-2.2.0.SP1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-net-2.2.0.SP1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-ntlm-2.2.0.SP1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-ntlm-2.2.0.SP1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-spnego-2.2.0.SP1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/jboss-negotiation-spnego-2.2.0.SP1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/negotiation/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/xacml/main/jbossxacml-2.0.6.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/security/xacml/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/shrinkwrap/core/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/shrinkwrap/core/main/shrinkwrap-api-1.0.0-cr-1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/shrinkwrap/core/main/shrinkwrap-api-1.0.0-cr-1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/shrinkwrap/core/main/shrinkwrap-impl-base-1.0.0-cr-1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/shrinkwrap/core/main/shrinkwrap-impl-base-1.0.0-cr-1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/shrinkwrap/core/main/shrinkwrap-spi-1.0.0-cr-1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/shrinkwrap/core/main/shrinkwrap-spi-1.0.0-cr-1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/staxmapper/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/staxmapper/main/staxmapper-1.1.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/staxmapper/main/staxmapper-1.1.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/stdio/main/jboss-stdio-1.0.1.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/stdio/main/jboss-stdio-1.0.1.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/stdio/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/threads/main/jboss-threads-2.0.0.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/threads/main/jboss-threads-2.0.0.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/threads/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/vfs/main/jboss-vfs-3.1.0.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/vfs/main/jboss-vfs-3.1.0.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/vfs/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/api/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/api/main/weld-api-1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/api/main/weld-api-1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/core/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/core/main/weld-core-1.1.5.AS71.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/core/main/weld-core-1.1.5.AS71.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/spi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/spi/main/weld-spi-1.1.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/weld/spi/main/weld-spi-1.1.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/api/main/jbossws-api-1.0.0.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/api/main/jbossws-api-1.0.0.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/api/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/common/main/jbossws-common-2.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/common/main/jbossws-common-2.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/common/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-client/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-factories/main/jbossws-cxf-factories-4.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-factories/main/jbossws-cxf-factories-4.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-factories/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-server/main/jbossws-cxf-server-4.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-server/main/jbossws-cxf-server-4.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-server/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-transports-httpserver/main/jbossws-cxf-transports-httpserver-4.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-transports-httpserver/main/jbossws-cxf-transports-httpserver-4.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/cxf/jbossws-cxf-transports-httpserver/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/jaxws-client/main/jbossws-cxf-client-4.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/jaxws-client/main/jbossws-cxf-client-4.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/jaxws-client/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/jaxws-jboss-httpserver-httpspi/main/jaxws-jboss-httpserver-httpspi-1.0.1.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/jaxws-jboss-httpserver-httpspi/main/jaxws-jboss-httpserver-httpspi-1.0.1.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/jaxws-jboss-httpserver-httpspi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-core/main/jbossws-native-core-4.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-core/main/jbossws-native-core-4.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-core/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-factories/main/jbossws-native-factories-4.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-factories/main/jbossws-native-factories-4.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-factories/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-services/main/jbossws-native-services-4.0.2.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-services/main/jbossws-native-services-4.0.2.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/native/jbossws-native-services/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/saaj-impl/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/spi/main/jbossws-spi-2.0.3.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/spi/main/jbossws-spi-2.0.3.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/spi/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/tools/common/main/jbossws-common-tools-1.0.0.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/tools/common/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/tools/wsconsume/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/ws/tools/wsprovide/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xb/main/jbossxb-2.0.3.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xb/main/jbossxb-2.0.3.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xb/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xnio/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xnio/main/xnio-api-3.0.3.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xnio/main/xnio-api-3.0.3.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xnio/nio/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xnio/nio/main/xnio-nio-3.0.3.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xnio/nio/main/xnio-nio-3.0.3.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xts/main/jbosstxbridge-4.16.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xts/main/jbosstxbridge-4.16.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xts/main/jbossxts-4.16.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xts/main/jbossxts-4.16.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xts/main/jbossxts-api-4.16.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xts/main/jbossxts-api-4.16.2.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jboss/xts/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jdom/main/jdom-1.1.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jdom/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jgroups/main/jgroups-3.0.6.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jgroups/main/jgroups-3.0.6.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/jgroups/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/joda/time/main/joda-time-1.6.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/joda/time/main/joda-time-1.6.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/joda/time/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/omg/api/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/osgi/core/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/osgi/core/main/org.osgi.core-4.2.0.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/osgi/core/main/org.osgi.core-4.2.0.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketbox/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketbox/main/picketbox-4.0.7.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketbox/main/picketbox-4.0.7.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketbox/main/picketbox-commons-1.0.0.final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketbox/main/picketbox-commons-1.0.0.final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketbox/main/picketbox-infinispan-4.0.7.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketbox/main/picketbox-infinispan-4.0.7.Final.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketlink/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketlink/main/picketlink-bindings-2.0.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketlink/main/picketlink-bindings-2.0.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketlink/main/picketlink-bindings-jboss-2.0.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketlink/main/picketlink-fed-2.0.2.Final-jandex-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketlink/main/picketlink-fed-2.0.2.Final-jandex.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/picketlink/main/picketlink-fed-2.0.2.Final.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/python/jython/standalone/main/jython-standalone-2.5.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/python/jython/standalone/main/jython-standalone-2.5.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/python/jython/standalone/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/scannotation/scannotation/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/scannotation/scannotation/main/scannotation-1.0.2.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/scannotation/scannotation/main/scannotation-1.0.2.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/ext/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/ext/main/slf4j-ext-1.6.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/ext/main/slf4j-ext-1.6.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/impl/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/impl/main/slf4j-jboss-logmanager-1.0.0.GA.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/impl/main/slf4j-jboss-logmanager-1.0.0.GA.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/jcl-over-slf4j/main/jcl-over-slf4j-1.6.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/jcl-over-slf4j/main/jcl-over-slf4j-1.6.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/jcl-over-slf4j/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/main/slf4j-api-1.6.1.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/slf4j/main/slf4j-api-1.6.1.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/w3c/css/sac/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/w3c/css/sac/main/sac-1.3.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/yaml/snakeyaml/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/yaml/snakeyaml/main/snakeyaml-1.8.jar
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/org/yaml/snakeyaml/main/snakeyaml-1.8.jar.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/sun/jdk/main/module.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/sun/jdk/main/service-loader-resources/META-INF/services/javax.script.ScriptEngineFactory
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/modules/sun/jdk/main/service-loader-resources.index
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/README.txt
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/configuration/application-roles.properties
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/configuration/logging.properties
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/configuration/standalone-full-ha.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/configuration/standalone-full.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/configuration/standalone-ha.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/configuration/standalone.xml
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/deployments/README.txt
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/as7_logo.png
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/as7_style.css
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/bkg.gif
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/documentation.html
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/favicon.ico
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/index.html
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/index_noconsole.html
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/jboss_community.png
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/noconsole.html
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/welcome-content/noredirect.html
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/add-user.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/appclient.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/domain.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/init.d/jboss-as-standalone.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/jboss-cli.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/jconsole.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/jdr.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/run.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/standalone.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/vault.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/wsconsume.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/bin/wsprovide.sh
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/domain/configuration/application-users.properties
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/domain/configuration/mgmt-users.properties
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/configuration/application-users.properties
+==> vm1:                 inflating: /opt/jboss-as-7.1.1.Final/standalone/configuration/mgmt-users.properties
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: execute[unzip jboss archive] ran successfully
+==> vm1:     - execute unzip  -o /tmp/jboss-as-7.1.1.Final.zip -d /opt
+==> vm1:   * user[jboss] action create (up to date)
+==> vm1:   * directory[node['jboss']['install_path'] + node['jboss']['install_dir']] action create
+==> vm1:  (up to date)
+==> vm1:
+==> vm1: * ruby_block[set JBOSS_HOME in /etc/environment] action run
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: ruby_block[set JBOSS_HOME in /etc/environment] called
+==> vm1:
+==> vm1: - execute the ruby block set JBOSS_HOME in /etc/environment
+==> vm1:
+==> vm1: * template[/etc/init.d/jboss] action create
+==> vm1:  (up to date)
+==> vm1:
+==> vm1: * directory[/etc//jboss-as] action create
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: directory[/etc//jboss-as] created directory /etc//jboss-as
+==> vm1:
+==> vm1: - create new directory /etc//jboss-as
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: directory[/etc//jboss-as] owner changed to 0
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: directory[/etc//jboss-as] group changed to 0
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: directory[/etc//jboss-as] mode changed to 755
+==> vm1:
+==> vm1: - change mode from '' to '0755'
+==> vm1:
+==> vm1: - change owner from '' to 'root'
+==> vm1:
+==> vm1: - change group from '' to 'root'
+==> vm1:
+==> vm1: * template[/etc/jboss-as/jboss-as.conf] action create
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: template[/etc/jboss-as/jboss-as.conf] created file /etc/jboss-as/jboss-as.conf
+==> vm1:
+==> vm1: - create new file /etc/jboss-as/jboss-as.conf
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: template[/etc/jboss-as/jboss-as.conf] updated file contents /etc/jboss-as/jboss-as.conf
+==> vm1:
+==> vm1: - update content in file /etc/jboss-as/jboss-as.conf from none to e500cf
+==> vm1:
+==> vm1: --- /etc/jboss-as/jboss-as.conf        2016-04-19 21:52:29.335014621 +0100
+==> vm1:
+==> vm1: +++ /etc/jboss-as/.chef-jboss-as.conf20160419-9560-c83ex0      2016-04-19 21:52:29.335014621 +0100
+==> vm1:
+==> vm1: @@ -1 +1,4 @@
+==> vm1:
+==> vm1: +JBOSS_HOME=/opt/jboss-as-7.1.1.Final
+==> vm1:
+==> vm1: +JBOSS_CONSOLE_LOG=/var/log/jboss-console.log
+==> vm1:
+==> vm1: +JBOSS_USER=jboss
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: template[/etc/jboss-as/jboss-as.conf] owner changed to 0
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: template[/etc/jboss-as/jboss-as.conf] group changed to 0
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: template[/etc/jboss-as/jboss-as.conf] mode changed to 755
+==> vm1:
+==> vm1: - change mode from '' to '0755'
+==> vm1:
+==> vm1: - change owner from '' to 'root'
+==> vm1:
+==> vm1: - change group from '' to 'root'
+==> vm1:
+==> vm1: * service[jboss] action enable
+==> vm1: [2016-04-19T21:52:29+01:00] INFO: service[jboss] enabled
+==> vm1:
+==> vm1:     - enable service service[jboss]
+==> vm1:
+==> vm1: * service[jboss] action start
+==> vm1: [2016-04-19T21:53:01+01:00] INFO: service[jboss] started
+==> vm1:
+==> vm1:     - start service service[jboss]
+==> vm1: [2016-04-19T21:53:01+01:00] INFO: Chef Run complete in 39.10977367 seconds
+==> vm1: [2016-04-19T21:53:01+01:00] INFO: Skipping removal of unused files from the cache
+==> vm1:
+==> vm1: Running handlers:
+==> vm1: [2016-04-19T21:53:01+01:00] INFO: Running report handlers
+==> vm1: Running handlers complete
+==> vm1: [2016-04-19T21:53:01+01:00] INFO: Report handlers complete
+==> vm1: Chef Client finished, 6/11 resources updated in 45 seconds
